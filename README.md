@@ -14,4 +14,4 @@ I am a 3rd-year CS student at Mansoura University, passionate about **Low-level 
 ---
 
 ## 📬 Connect with me
-[LinkedIn](www.linkedin.com/in/fatma-mansour-0230382b4) 
+[LinkedIn](https://www.linkedin.com/in/fatma-mansour-0230382b4/) 
