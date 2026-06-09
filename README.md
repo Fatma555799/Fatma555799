@@ -6,7 +6,7 @@ I am a 3rd-year CS student at Mansoura University, passionate about **Low-level 
 ---
 
 ## 🛠 Skills & Tools
-* **Programming:** C++, C#, SQL Server, Python .
+* **Programming:** C++, C#, SQL Server, Pythonو,Html,Css, .
 * **Hardware/Systems:** Computer Architecture (ALU, RAM Design).
 * **Networking:** Cisco Packet Tracer Simulations.
 * **Libraries:** Pandas, Scikit-learn, numpy,matplotlib,pytorch.
